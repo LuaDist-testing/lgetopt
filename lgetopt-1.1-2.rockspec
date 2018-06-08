@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lgetopt"
-version = "1.0-1"
+version = "1.1-2"
 
 -- LuaDist source
 source = {
-  tag = "1.0-1",
+  tag = "1.1-2",
   url = "git://github.com/LuaDist-testing/lgetopt.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/daelvn/lgetopt",
---   tag = "v1.0"
+--   tag = "v1.1.2"
 -- }
 
 description = {
